@@ -1,0 +1,100 @@
+/* AmazingGrotesk Fonts Family */
+@font-face {
+    font-family: 'AmazingGrotesk-Demi-Bold';
+    src: url('/fonts/AmazingGrotesk/Demi-Bold/amazing_grotesk_demi.eot');
+    src: url('/fonts/AmazingGrotesk/Demi-Bold/amazing_grotesk_demi.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/AmazingGrotesk/Demi-Bold/amazing_grotesk_demi.woff2') format('woff2'),
+    url('/fonts/AmazingGrotesk/Demi-Bold/amazing_grotesk_demi.woff') format('woff'),
+    url('/fonts/AmazingGrotesk/Demi-Bold/amazing_grotesk_demi.ttf') format('truetype'),
+    url('/fonts/AmazingGrotesk/Demi-Bold/amazing_grotesk_demi.svg#amazing_groteskDemi-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AmazingGrotesk-Regular';
+    src: url('/fonts/AmazingGrotesk/Regular/amazing_grotesk.eot');
+    src: url('/fonts/AmazingGrotesk/Regular/amazing_grotesk.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/AmazingGrotesk/Regular/amazing_grotesk.woff2') format('woff2'),
+    url('/fonts/AmazingGrotesk/Regular/amazing_grotesk.woff') format('woff'),
+    url('/fonts/AmazingGrotesk/Regular/amazing_grotesk.ttf') format('truetype'),
+    url('/fonts/AmazingGrotesk/Regular/amazing_grotesk.svg#amazing_groteskregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.amazing {
+    font-family: 'AmazingGrotesk-Regular';
+    letter-spacing: 1px;
+}
+
+.amazing.demi-bold {
+    font-family: 'AmazingGrotesk-Demi-Bold';
+}
+/***************************/
+
+/* ClinicaPro Fonts Family */
+@font-face {
+    font-family: 'ClinicaPro-Reqular';
+    src: url('/fonts/Clinica/Regular/ClinicaPro-Regular.eot?#iefix') format('embedded-opentype'),  url('/fonts/Clinica/Regular/ClinicaPro-Regular.otf')  format('opentype'),
+    url('/fonts/Clinica/Regular/ClinicaPro-Regular.woff') format('woff'), url('/fonts/Clinica/Regular/ClinicaPro-Regular.ttf')  format('truetype'), url('/fonts/Clinica/Regular/ClinicaPro-Regular.svg#ClinicaPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClinicaPro-Medium';
+    src: url('/fonts/Clinica/Medium/ClinicaPro-Medium.eot?#iefix') format('embedded-opentype'),  url('/fonts/Clinica/Medium/ClinicaPro-Medium.otf')  format('opentype'),
+    url('/fonts/Clinica/Medium/ClinicaPro-Medium.woff') format('woff'), url('/fonts/Clinica/Medium/ClinicaPro-Medium.ttf')  format('truetype'), url('/fonts/Clinica/Medium/ClinicaPro-Medium.svg#ClinicaPro-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClinicaPro-Bold';
+    src: url('/fonts/Clinica/Bold/ClinicaPro-Bold.eot?#iefix') format('embedded-opentype'),  url('/fonts/Clinica/Bold/ClinicaPro-Bold.otf')  format('opentype'),
+    url('/fonts/Clinica/Bold/ClinicaPro-Bold.woff') format('woff'), url('/fonts/Clinica/Bold/ClinicaPro-Bold.ttf')  format('truetype'), url('/fonts/Clinica/Bold/ClinicaPro-Bold.svg#ClinicaPro-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ClinicaPro-Semi-Bold';
+    src: url('/fonts/Clinica/Semi-Bold/ClinicaPro-SemiBold.eot?#iefix') format('embedded-opentype'),  url('/fonts/Clinica/Semi-Bold/ClinicaPro-SemiBold.otf')  format('opentype'),
+    url('/fonts/Clinica/Semi-Bold/ClinicaPro-SemiBold.woff') format('woff'), url('/fonts/Clinica/Semi-Bold/ClinicaPro-SemiBold.ttf')  format('truetype'), url('/fonts/Clinica/Semi-Bold/ClinicaPro-SemiBold.svg#ClinicaPro-SemiBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'ClinicaPro-Italic';
+    src: url('/fonts/Clinica/Italic/ClinicaPro-Italic.eot?#iefix') format('embedded-opentype'),  url('/fonts/Clinica/Italic/ClinicaPro-Italic.otf')  format('opentype'),
+    url('/fonts/Clinica/Italic/ClinicaPro-Italic.woff') format('woff'), url('/fonts/Clinica/Italic/ClinicaPro-Italic.ttf')  format('truetype'), url('/fonts/Clinica/Italic/ClinicaPro-Italic.svg#ClinicaPro-Italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.clinica {
+    font-family: 'ClinicaPro-Reqular';
+
+}
+
+.clinica.italic {
+    font-family: 'ClinicaPro-Italic';
+
+}
+
+.clinica.medium {
+    font-family: 'ClinicaPro-Medium';
+}
+
+.clinica.bold {
+    font-family: 'ClinicaPro-Bold';
+}
+
+.clinica.semi-bold {
+    font-family: 'ClinicaPro-Semi-Bold';
+}
+/***************************/

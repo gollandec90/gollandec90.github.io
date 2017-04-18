@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'ClinicaPro-Italic';
+  src: url('ClinicaPro-Italic.eot?#iefix') format('embedded-opentype'),  url('ClinicaPro-Italic.otf')  format('opentype'),
+	     url('ClinicaPro-Italic.woff') format('woff'), url('ClinicaPro-Italic.ttf')  format('truetype'), url('ClinicaPro-Italic.svg#ClinicaPro-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
